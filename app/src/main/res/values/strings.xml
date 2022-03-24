@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Days3-Ahmadbukhori</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="developer">menu_developer</string>
+    <string name="myapps">myApps</string>
+    <string name="login">login</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="silahkan_login_terlebih_dahulu">silahkan login terlebih dahulu</string>
+    <string name="buat_akun_baru">buat akun baru</string>
+    <string name="logo">logo</string>
+    <string name="menu_developer">developer</string>
+</resources>
